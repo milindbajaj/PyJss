@@ -1,3 +1,3 @@
-QUERY = ('#indore OR #oxygen')
+QUERY = '#indore'
 LIKE = True
 SLEEP_TIME = 60
